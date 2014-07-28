@@ -1,1 +1,9 @@
 /* Empty. Add your own CSS if you like */
+
+#home-view .scroll-content {
+  background: url('../img/1001.jpg') no-repeat center center fixed;
+  -webkit-background-size: 99.9% 100%;
+  -moz-background-size: 99.9% 100%;
+  -o-background-size: 99.9% 100%;
+  background-size: 99.9% 100%;
+}

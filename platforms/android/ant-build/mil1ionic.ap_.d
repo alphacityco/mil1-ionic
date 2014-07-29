@@ -42,6 +42,8 @@
 /Users/ti/repo/own/mil1-ionic/platforms/android/assets/www/css/style.css \
 /Users/ti/repo/own/mil1-ionic/platforms/android/assets/www/img/1001-custom.jpg \
 /Users/ti/repo/own/mil1-ionic/platforms/android/assets/www/img/1001.jpg \
+/Users/ti/repo/own/mil1-ionic/platforms/android/assets/www/img/alphadeville.png \
+/Users/ti/repo/own/mil1-ionic/platforms/android/assets/www/img/info-back.jpg \
 /Users/ti/repo/own/mil1-ionic/platforms/android/assets/www/img/ionic.png \
 /Users/ti/repo/own/mil1-ionic/platforms/android/assets/www/js/app.js \
 /Users/ti/repo/own/mil1-ionic/platforms/android/assets/www/js/controllers.js \

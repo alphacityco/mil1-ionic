@@ -9,13 +9,21 @@
       <div class="col"></div>
     </div>
 
+    <div class="card books-card">
+      <div class="item item-text-wrap">
+        Eso es lo que te queda por leer, no te parece mas exacto? Corre!
+      </div>
+    </div>
+
     <ul class="list">
       <div class="item item-divider">
-        Tu lista de libros
+        Tu lista de libros antes de morir
       </div>
+
       <li ng-repeat="book in user.books_list" class="item">
         {{book.title}}
       </li>
+
     </ul>
 
   </ion-content>

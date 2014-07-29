@@ -16,6 +16,14 @@
   background-size: 99.9%;
 }
 
+#about-view .scroll-content {
+  background: url('../img/info-back.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 .books-amount {
   margin-top: 200px;
 }
@@ -25,6 +33,14 @@
   color: white;
 }
 
-.books-list {
-  margin-top: 300px;
+.books-card {
+  margin-top: 20px;
+}
+
+.ionic-logo{
+  width: 100%;
+}
+
+.alpha-logo {
+  width: 100%;
 }

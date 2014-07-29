@@ -1,7 +1,7 @@
 (function(){
 
-  this.Mil1App.controller('HomeCtrl', function($scope) {
-  });
+  this.Mil1App.controller('HomeCtrl', function($scope) {});
+
   this.Mil1App.controller('CalculatorCtrl', function($scope, $state, $ionicPopup, BooksBeforeDeath) {
     $scope.user = {};
     $scope.isPendingRequest = false;
@@ -36,7 +36,6 @@
 
   });
 
-  this.Mil1App.controller('AboutCtrl', function($scope) {
-  });
+  this.Mil1App.controller('AboutCtrl', function($scope) {});
 
 }).call(this);

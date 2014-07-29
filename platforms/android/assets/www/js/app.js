@@ -51,6 +51,15 @@
           }
         }
       })
+      .state('tab.calculator', {
+        url: '/calculator',
+        views: {
+          'tab-home': {
+            templateUrl: 'templates/tab-calculator.html',
+            controller: 'CalculatorCtrl'
+          }
+        }
+      })
 
       .state('tab.books', {
         url: '/books',

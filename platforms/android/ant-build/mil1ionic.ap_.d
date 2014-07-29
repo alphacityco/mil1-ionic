@@ -121,6 +121,7 @@
 /Users/ti/repo/own/mil1-ionic/platforms/android/assets/www/plugins/org.apache.cordova.device/www/device.js \
 /Users/ti/repo/own/mil1-ionic/platforms/android/assets/www/templates/tab-about.html \
 /Users/ti/repo/own/mil1-ionic/platforms/android/assets/www/templates/tab-books.html \
+/Users/ti/repo/own/mil1-ionic/platforms/android/assets/www/templates/tab-calculator.html \
 /Users/ti/repo/own/mil1-ionic/platforms/android/assets/www/templates/tab-home.html \
 /Users/ti/repo/own/mil1-ionic/platforms/android/assets/www/templates/tabs.html \
 /Users/ti/repo/own/mil1-ionic/platforms/android/ant-build/AndroidManifest.xml \

@@ -1,0 +1,46 @@
+/* Empty. Add your own CSS if you like */
+
+#home-view .scroll-content {
+  background: url('../img/1001.jpg') no-repeat center center fixed;
+  -webkit-background-size: 99.9% 100%;
+  -moz-background-size: 99.9% 100%;
+  -o-background-size: 99.9% 100%;
+  background-size: 99.9% 100%;
+}
+
+#books-view .scroll-content {
+  background: url('../img/1001-custom.jpg') no-repeat center center fixed;
+  -webkit-background-size: 99.9%;
+  -moz-background-size: 99.9%;
+  -o-background-size: 99.9%;
+  background-size: 99.9%;
+}
+
+#about-view .scroll-content {
+  background: url('../img/info-back.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.books-amount {
+  margin-top: 200px;
+}
+
+.books-amount h4 {
+  font-weight: bold;
+  color: white;
+}
+
+.books-card {
+  margin-top: 20px;
+}
+
+.ionic-logo{
+  width: 100%;
+}
+
+.alpha-logo {
+  width: 100%;
+}
